@@ -286,10 +286,3 @@ This project is licensed under the Apache 2.0 license. Please see [LICENSE](LICE
 ## Version and changes
 
 To view history and notes for this version, view the [Changelog](CHANGELOG.md).
-
-## Authors
-
-- Ana Campesan - [@anazard](https://github.com/anazard)
-- Chris Hurley - [@chrishpe](https://github.com/chrishpe)
-- Felipe Bulsoni - [@fgbulsoni](https://github.com/fgbulsoni)
-- Ricardo Piantola - [@piantola](https://github.com/piantola)
