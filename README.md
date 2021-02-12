@@ -21,7 +21,7 @@ For more information on the Puppet Module for HPE OneView resource types and the
 
 ## What's New
 
-HPE OneView Puppet library extends support of the SDK to OneView REST API version 2200 (OneView v5.50)
+HPE OneView Puppet library extends support of the SDK to OneView REST API version 2400 (OneView v5.60)
 
 Please refer to [notes](https://github.com/HewlettPackard/oneview-puppet/blob/master/CHANGELOG.md) for more information on the changes , features supported and issues fixed in this version
 
